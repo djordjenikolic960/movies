@@ -74,4 +74,6 @@ dependencies {
 
     //image
     implementation("com.github.bumptech.glide:glide:4.14.2")
+
+    implementation("androidx.work:work-runtime-ktx:2.7.1")
 }
